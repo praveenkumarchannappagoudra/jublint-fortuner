@@ -1,2 +1,1 @@
-# jublint-fortuner
-# uat is update
+praveen branch is eddited
