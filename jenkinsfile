@@ -35,5 +35,11 @@ pipeline{
                 '''
             }
         }
+        stage('current process'){
+            steps{
+                sh '''ps -eaf | head
+                '''
+            }
+        }
     }
 }
